@@ -1,4 +1,4 @@
-package org.example;
+package org.example.user;
 
 /**
  * 요구사항
